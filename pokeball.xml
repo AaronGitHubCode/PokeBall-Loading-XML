@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+
+<!-- 
+    // POKEMON GAME LOADING SIMULATOR XML FILE //
+
+    Pantalla de carga estilo juego Pokémon creado únicamente
+    con etiquetas XML y estilos CSS.
+
+    Como utilidad principal, puede servir como pantalla de espera
+    en un stream de YouTube, Twitch...
+
+    ¡DISFRUTA Y MODIFÍCALO TODO LO QUE QUIERAS! :D
+-->
+
+<window>
+    <pokeball>
+        <top></top>
+        <line>
+            <circle></circle>
+        </line>
+        <bottom></bottom>
+    </pokeball>
+    <text>Loading</text>
+</window>
